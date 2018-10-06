@@ -7,8 +7,3 @@ srt = String(r);
 
 console.log(srt.slice(0,2));
 
-
-
-
-
-
